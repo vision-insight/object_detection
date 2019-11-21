@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wfatal-errors -Wno-deprecated-declarations -Wno-write-strings    CMakeFiles/uselib.dir/src/yolo_console_dll.cpp.o  -o uselib -Wl,-rpath,/media/D/train_code/darknet-master/build-release: libdark.so -lpthread -lm 

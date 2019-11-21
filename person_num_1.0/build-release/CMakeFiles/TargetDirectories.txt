@@ -1,0 +1,9 @@
+/media/D/train_code/darknet-master/build-release/CMakeFiles/install/strip.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/install/local.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/install.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/uselib.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/edit_cache.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/rebuild_cache.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/darknet.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/dark.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/list_install_components.dir

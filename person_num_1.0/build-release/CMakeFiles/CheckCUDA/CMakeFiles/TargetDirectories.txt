@@ -1,0 +1,2 @@
+/media/D/train_code/darknet-master/build-release/CMakeFiles/CheckCUDA/CMakeFiles/rebuild_cache.dir
+/media/D/train_code/darknet-master/build-release/CMakeFiles/CheckCUDA/CMakeFiles/edit_cache.dir

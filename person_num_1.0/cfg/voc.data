@@ -1,0 +1,6 @@
+classes= 1
+train  = data/2019_train.txt
+valid  = data/2019_val.txt
+names = data/voc.names
+backup = backup
+

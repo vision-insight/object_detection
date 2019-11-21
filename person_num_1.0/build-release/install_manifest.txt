@@ -1,0 +1,9 @@
+/media/D/train_code/darknet-master/libdark.so
+/media/D/train_code/darknet-master/include/darknet/darknet.h
+/media/D/train_code/darknet-master/include/darknet/yolo_v2_class.hpp
+/media/D/train_code/darknet-master/uselib
+/media/D/train_code/darknet-master/darknet
+/media/D/train_code/darknet-master/share/darknet/DarknetTargets.cmake
+/media/D/train_code/darknet-master/share/darknet/DarknetTargets-noconfig.cmake
+/media/D/train_code/darknet-master/share/darknet/DarknetConfig.cmake
+/media/D/train_code/darknet-master/share/darknet/DarknetConfigVersion.cmake
