@@ -8,7 +8,7 @@ sets=[('2019', 'train'), ('2019', 'val'), ('2019', 'test')]
 
 classes = ["person"]
 
-path = '/media/D/train_data/person_count/'
+path = '/media/D/training_data/'
 
 def convert(size, box):
     dw = 1./(size[0])
