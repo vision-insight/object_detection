@@ -1,0 +1,7 @@
+classes=1
+train=/media/D/train_code/people_num_yolov3/2019_train.txt
+valid=/media/D/train_code/people_num_yolov3/2019_val.txt
+test=/media/D/train_code/people_num_yolov3/make_detect_test_dataset/2019_test.txt
+names=/data/object_detection/people_count/cfg/class.names
+backup=backup/
+eval=coco

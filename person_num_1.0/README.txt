@@ -1,3 +1,5 @@
+This project is forked from the repro of https://github.com/AlexeyAB/darknet
+
 [compile on Linux(cmake)]
 1  cd darknet-master
 2  mkdir build-release
